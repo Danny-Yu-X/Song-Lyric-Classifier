@@ -12,7 +12,7 @@ If you would like to explore the data, please run `eda_lyrics_analysis.py`. Here
 
 ## Running the Models
 
-To run the models, go to the backend sub repository, download ECS171.ipynb, and open it in Google Colab as a notebook. Make sure you also download the `finalCombinedPlaylist.csv` from the data sub repository and upload it to your Google Colab workspace. From there, you can press “Run all” and you will see our models train on the data. 
+To run the models, download `Model_Notebook.ipynb`, and open it in Google Colab as a notebook. Make sure you also download the `finalCombinedPlaylist.csv` from the data sub repository and upload it to your Google Colab workspace. From there, you can press “Run all” and you will see our models train on the data. 
 
 Feel free to comment out the cell that mounts the user’s Google Drive. This cell was used for plot collection purposes. If you do comment out that cell, also make sure to comment out `dir_path = os.path.join("drive", "MyDrive", "results", directory_name)` and uncomment  `# dir_path = os.path.join("results", directory_name)`.
 
