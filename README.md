@@ -8,7 +8,7 @@ In this sub repository you will find all the scripts that were used in the creat
 
 ## EDA
 
-If you would like to explore the data, please run `eda_lyrics_analysis.py`. Here you will see various graphs that show the distribution of the data.
+If you would like to explore the data, download and run `eda_lyrics_analysis.py` from the backend subrepository. Here you will see various graphs that show the distribution of the data.
 
 ## Running the Models
 
