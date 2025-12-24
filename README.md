@@ -17,3 +17,13 @@ To run the models, download `Model_Notebook.ipynb`, and open it in Google Colab 
 Feel free to comment out the cell that mounts the user’s Google Drive. This cell was used for plot collection purposes. If you do comment out that cell, also make sure to comment out `dir_path = os.path.join("drive", "MyDrive", "results", directory_name)` and uncomment  `# dir_path = os.path.join("results", directory_name)`.
 
 Enjoy running the models!
+
+## Authors
+- Danny Yu (@Danny-Yu-X)
+- Taylor Ueda
+- Adrian Perez
+- Maxim Yurkovsky
+- Aidan DeVaney
+- Cory Pham
+- Divleen Lota
+- Arezoo Ghasemzadeh
