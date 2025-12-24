@@ -19,11 +19,11 @@ Feel free to comment out the cell that mounts the user’s Google Drive. This ce
 Enjoy running the models!
 
 ## Authors
-- Danny Yu (@Danny-Yu-X)
-- Taylor Ueda
-- Adrian Perez
-- Maxim Yurkovsky
 - Aidan DeVaney
-- Cory Pham
-- Divleen Lota
 - Arezoo Ghasemzadeh
+- Divleen Lota
+- Adrian Perez
+- Cory Pham
+- Taylor Ueda
+- Maxim Yurkovsky
+- Danny Yu (@Danny-Yu-X)
