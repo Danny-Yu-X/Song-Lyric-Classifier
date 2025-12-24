@@ -1,5 +1,7 @@
 # ECS 171 Group 7 Project
 
+## Fall Quarter 2025 | University of California, Davis (UC Davis)
+
 Welcome to Group 7’s repository for the ECS 171 group project. Currently, Spotify has a limited selection of kids' tracks because they seem to be hand selected by Spotify employees. Our project aims to create a classifier that takes in the song lyrics and predicts whether the song is appropriate for kids or inappropriate for kids. We looked at various NLP and machine learning techniques to best figure out how the data should be processed and what classifier we should use. What you will find in this repository is our experimentation and the final model we decided to deploy to our frontend. 
 
 ## Data Creation
@@ -17,6 +19,10 @@ To run the models, download `Model_Notebook.ipynb`, and open it in Google Colab 
 Feel free to comment out the cell that mounts the user’s Google Drive. This cell was used for plot collection purposes. If you do comment out that cell, also make sure to comment out `dir_path = os.path.join("drive", "MyDrive", "results", directory_name)` and uncomment  `# dir_path = os.path.join("results", directory_name)`.
 
 Enjoy running the models!
+
+## Summary
+
+This is the main project I worked on in ECS 171 (Machine Learning). In this class, I learned about supervised & unsupervised learning, including classification, dimensionality reduction, regression & clustering using modern machine learning methods. I also learned about the applications of machine learning in other fields. In this project, I worked with Aidan, Arezoo, Divleen, Adrian, Cory, Taylor, and Maxim, all of whom are undergraduate college students at UC Davis. We developed a song lyric classifier that takes in the song lyrics and predicts whether the song is appropriate for kids or inappropriate for kids. We looked at various NLP and machine learning techniques to best figure out how the data should be processed and what classifier we should use.
 
 ## Authors
 - Aidan DeVaney
